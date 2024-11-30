@@ -64,19 +64,23 @@ Four key analyses were performed using Pivot Tables and corresponding charts:
 
 1. **Average Income per Purchase**:  
    - A clustered column chart showing the average income of buyers, segmented by gender and whether they purchased a bike.
-   ![alt text](image-4.png)
+   ![image](https://github.com/user-attachments/assets/ce97cf0b-82cd-408a-b85d-2ba9c61878d0)
+
 
 2. **Commute Distance vs. Purchases**:  
    - A simple line chart showing how commute distance correlates with bike purchases.
-   ![alt text](image-3.png)
+   ![image](https://github.com/user-attachments/assets/a3b7ea25-8f56-4db8-bd3f-750d61e5a62e)
+
 
 3. **Purchase by Age Range**:  
    - A line chart with markers to show the trend of bike purchases across different age ranges.
-   ![alt text](image-5.png)
+   ![image](https://github.com/user-attachments/assets/3eb02f3a-d7c1-4fc9-8742-d420a808d7c1)
+
 
 4. **Purchases by Homeownership**:  
    - A pie chart showing the proportion of bike purchases by homeowners vs. non-homeowners.
-  ![alt text](image-1.png)
+ ![image](https://github.com/user-attachments/assets/27a736cb-c186-460c-9024-403145c2693d)
+
 
 These analyses were included in an interactive dashboard with slicers for **Education**, **Region**, **Occupation**, and **Marital Status**.
 
@@ -87,7 +91,7 @@ These analyses were included in an interactive dashboard with slicers for **Educ
 Based on the analysis, the following recommendations can be made:
 - **Target Middle-Aged Customers**: Middle-aged individuals (35-55) are the most likely to purchase bikes. Marketing campaigns can focus on this group, particularly in regions where bike sales are higher.
 - **Incentives for Homeowners**: Homeowners are more likely to purchase bikes, so offering exclusive discounts to homeowners could drive additional sales.
-- **Commute-Focused Marketing**: Customers who commute 5-10 miles are more likely to purchase bikes. Target this group with promotions related to commuting or biking for fitness.
+- **Commute-Focused Marketing**: Customers who commute 0-1 miles are more likely to purchase bikes. Target this group with promotions related to commuting or biking for fitness.
 - **Age-Based Promotions**: For younger customers, such as adolescents and young adults, promotions around fitness or cycling-related activities could increase engagement and bike sales.
 
 ---
